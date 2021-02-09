@@ -10,7 +10,7 @@ h1 {
 </style>
 </head>
 <body>
-<p>Sejal Kaul</p>
+<p>Mansukh Singh</p>
 <p> Sem-6</p>
 </body>
 </html>
